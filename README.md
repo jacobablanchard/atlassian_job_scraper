@@ -8,6 +8,8 @@ Once you apply to a job, simply input its number, and this program will take it 
 
 To edit the search terms and blacklist terms, simply edit the variables at the top of the file (no spaces)
 
+![Demo Gif](./images/demo.gif)
+
 ## How to run
 
 To run, first create the virtual environment and install the required modules
